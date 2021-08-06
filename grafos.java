@@ -1,5 +1,5 @@
     public BST() {
-    }
+    } 
 
     /**
      * Returns true if this symbol table is empty.
